@@ -47,6 +47,8 @@ for (let i = 0; i < num; i++) {
   }
 }
 
+// Extrude to create 3D mesh from 2D shape w three.js geometry
+
 const extrudeSettings = {
   steps: 160,
   depth: 20,
